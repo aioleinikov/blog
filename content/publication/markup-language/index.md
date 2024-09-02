@@ -18,7 +18,7 @@ lastmod: '2024-08-11T00:00:00Z'
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 authors:
   - admin

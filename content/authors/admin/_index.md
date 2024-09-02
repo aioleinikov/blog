@@ -48,15 +48,15 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 40
         icon: code-bracket
-      - name: Data Science
+      - name: Python
         description: ''
         percent: 30
         icon: chart-bar
-      - name: SQL
+      - name: HTML
         description: ''
         percent: 30
         icon: circle-stack
@@ -72,10 +72,6 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
